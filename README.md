@@ -42,5 +42,8 @@ asian_recipe_classifier_ds4002/
 │   ├── top50.png
 │   └── uniqueingredient.png
 │
-└── README.md
+├── LICENSE.md
+├── README.md
+└── Research Question and Approach
+
 
