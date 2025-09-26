@@ -46,4 +46,6 @@ asian_recipe_classifier_ds4002/
 ├── README.md
 └── Research Question and Approach
 
+● Section 3: Instructions for reproducing your results.
+
 
