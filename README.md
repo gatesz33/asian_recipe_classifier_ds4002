@@ -28,11 +28,11 @@ asian_recipe_classifier_ds4002/
 ├── Data/
 │   ├── Top_15_Ingredients_per_Country.csv
 │   ├── Top_50_Foods_with_Dominant_Country.csv
-│   ├── asian_recipes_one_row.csv
 │   └── asianrecipesfinal.csv
 │
 ├── Scripts/
-│   └── ingredients.ipynb
+|   └── asian_recipe_modeling.ipynb
+|   └── ingredients.ipynb
 │
 ├── Output/
 │   ├── distofingredients.png
