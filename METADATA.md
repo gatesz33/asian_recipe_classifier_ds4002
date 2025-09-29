@@ -61,3 +61,8 @@ These risks are acknowledged, and care will be taken to ensure analysis and conc
 * Additional parsing of cooking instructions is required to classify methods more accurately.
 
 ---
+
+
+<img width="905" height="547" alt="image" src="https://github.com/user-attachments/assets/23be9355-0db6-44b6-aca3-da43b39468a1" />
+<img width="996" height="600" alt="image" src="https://github.com/user-attachments/assets/8a3819b1-5036-4602-bf46-9935320f9dbe" />
+
